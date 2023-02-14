@@ -1,6 +1,7 @@
 # Desgnr.
 
 > A landing page built with the ReactJs & Css.
+> [Live link of Landing Page](https://dsgnr.netlify.app/)
 
 ![screenshot](https://github.com/itsakhilrana/landing-page/blob/master/src/web-snapshot.png)
 
